@@ -1,1 +1,1 @@
-2nd file in branch b1 is created
+2nd file in branch b1 is modified
